@@ -1,0 +1,91 @@
+#1. Feladat
+
+apple         35
+banana        20
+cherry        15
+
+#2. Feladat
+
+COMPLETED: 40
+FAILED: 2
+
+#3. Feladat
+
+FASTQC: 8
+FASTP: 8
+SPADES: 9
+PROKKA: 9
+AMRFINDER: 8
+
+#4. Feladat
+
+FAILED: SPADES Exit: 09:14:50
+FAILED: PROKKA Exit: 09:15:57
+
+#5. Feladat
+
+INFO: 45
+DEBUG: 41
+WARN: 2
+ERROR: 2
+
+#6. Feladat
+
+09:14 14
+09:15 16
+09:16 12
+
+#7. Feladat
+
+Bacillus subtilis            2  4190468
+Enterobacter hormaechei      2  4983230
+Escherichia coli             6  5080646
+Klebsiella pneumoniae        6  5738658
+Pseudomonas aeruginosa       5  6634927
+Salmonella enterica          2  4870346
+Xanthomonas oryzae           2  4736136
+
+#8. Feladat
+
+50.14 Streptomyces canus 12157638
+
+#9. Feladat
+
+Azért nem jó, mert kötőjellel vannak elválasztva az oszlopok, nem tabulátorral
+
+year    month   day
+2022    08      11
+2023    09      02
+2023    10      14
+2023    11      28
+
+1 sample(s) from 2022
+3 sample(s) from 2023
+
+#10. Feladat
+
+[Task 86
+[main] 4
+
+#11. Feladat
+
+DEBUG: 41
+INFO: 45
+WARN: 2
+Összesen: 88
+DEBUG aránya: 46.59%
+
+#12. Feladat
+
+[main] 4
+[Task monitor] 44
+[Task submitter] 42
+
+Legaktívabb szál: [Task monitor]
+Bejegyzések száma: 44
+
+#13. Feladat
+
+Futási idő: 843 másodperc
+
+#14. Feladat
